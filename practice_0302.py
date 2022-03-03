@@ -21,7 +21,8 @@ class Practice0302:
             b="ball",
             c="cat",
             d="dog",
-            e="elephant"
+            e="elephant",
+            f="frog"
         )
 
         print(alphabet["a"])
