@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4cb3d68-2104-4631-80f9-7e45e803d8da" name="Default Changelist" comment="0303">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice_0302.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice_0302.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/practice_0303.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice_0303.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,9 +23,6 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/practice_0303.py" root0="FORCE_HIGHLIGHTING" />
-  </component>
-  <component name="ProblemsViewState">
-    <option name="selectedIndex" value="1" />
   </component>
   <component name="ProjectId" id="25oI4HvEmlelu2cz3QepaTF4Fij" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />

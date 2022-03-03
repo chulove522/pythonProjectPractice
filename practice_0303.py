@@ -1,5 +1,6 @@
 import pandas as pd
 import numpy as np
+import math
 from datetime import date
 
 
@@ -13,14 +14,13 @@ class Practice0303:
     s = ['a', 'b', 'c', 'd']
 
     # str1 = "s[0] + s[1] + s[2] + s[3]\n"
-    str1=""
+    str1 = ""
     str1 = str1.join(s)
     print(str1)
 
     # Write a Python program to convert a list of characters into a string.
     my_string = "isaac"
     print(len(my_string))
-
 
     def practiceLickyNumber(self):
         b = input()
@@ -41,10 +41,10 @@ class Practice0303:
         else:
             print("regular number")
 
-    #printthedifference(1)
+    # printthedifference(1)
     str = "-"
     seq = ("a", "b", "c")  # 字符串序列
-    print(str.join(seq))  #a-b-c
+    print(str.join(seq))  # a-b-c
 
     # Python
     # 元组
@@ -66,18 +66,80 @@ class Practice0303:
     # 对用冒号: 分割，每个键值对之间用逗号, 分割
     d = {"key1": "value1", "key2": "value2"}
 
-class practice02:
+
+class PracticeTheMath:
 
     def trianglearea(self):
         # Heron's Formula - area of a triangle
         Heron = []
-        i=0
-        s=0
-        while(i<=2):
+        i = 0
+        s = 0
+        while (i <= 2):
             Heron.append(int(input()))
             s += Heron[i]
             i += 1
-        s = s/2
+        s = s / 2
         s = (s * (s - Heron[0]) * (s - Heron[1]) * (s - Heron[2])) ** 0.5
         print(s)
-    trianglearea(1)
+
+    # trianglearea(1)
+
+    def printtheprimes(self):
+        i = 2
+        while i < 100:
+            j = 2
+            while j <= math.sqrt(i):
+                if i % j == 0:
+                    break
+                j = j + 1
+            if j > math.sqrt(i):
+                print(i)
+            i = i + 1
+        # end
+
+    def isaprime(self):
+        isPrime = True
+        print("請輸入一個數字判定是為質數")
+        s = int(input())
+        if s >= 2:
+            j = 2
+            while j <= math.sqrt(s):
+                if s % j == 0:
+                    isPrime = False
+                    break
+                else:
+                    j = j + 1
+        print(isPrime)
+        # end
+
+    # printtheprimes(1)
+    # isaprime(1)
+
+
+class Practice02:
+    def slicing(self):
+        mylist = ['a', 'p', 'p', 'l', 'e']
+        print(mylist[2:5])
+        print(mylist[:4])
+        print(mylist[1:])
+        print(mylist[:])
+        print(mylist)
+
+        # Use del toDeleteelementsfrom a list
+        my_list = ['p', 'r', 'o', 'b', 'l', 'e', 'm']
+        # delete 3th item
+        del my_list[2]
+        # my_list.remove('o')
+        print(my_list)
+        # delete multiple items from 2th to 4th(including 4th)
+        del my_list[1:5]
+        print(my_list)
+
+        d = {0: 10, 1: 20}
+        print(d)
+        d.update({2: 30})
+        # d[2]= 30
+
+        print(d)
+
+    slicing(1)
