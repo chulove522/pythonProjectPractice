@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4cb3d68-2104-4631-80f9-7e45e803d8da" name="Default Changelist" comment="0303">
-      <change afterPath="$PROJECT_DIR$/practice0309.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/srcatcher0312.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022_3_3__03_03__Default_Changelist_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022_3_3_下午_03_03_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/0314_FaceDetect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice0314.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice0314_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice0314_brand.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice0314_peopletag.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,8 +62,8 @@
       <recent name="E:\pyPractice\pythonProject0302" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.srcatcher0312">
-    <configuration name="practice0304" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.0314_FaceDetect">
+    <configuration name="0314_FaceDetect" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -74,7 +75,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice0304.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0314_FaceDetect.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,7 +84,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="practice0308" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="practice0314" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -95,7 +96,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice0308.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice0314.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,7 +105,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="practice0308_02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="practice0314_02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -116,7 +117,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice0308_02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice0314_02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="practice0309" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="practice0314_brand" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -137,7 +138,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice0309.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice0314_brand.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,7 +147,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="srcatcher0312" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="practice0314_peopletag" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -158,7 +159,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/srcatcher0312.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice0314_peopletag.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.srcatcher0312" />
-        <item itemvalue="Python.practice0309" />
-        <item itemvalue="Python.practice0308_02" />
-        <item itemvalue="Python.practice0308" />
-        <item itemvalue="Python.practice0304" />
+        <item itemvalue="Python.0314_FaceDetect" />
+        <item itemvalue="Python.practice0314_peopletag" />
+        <item itemvalue="Python.practice0314_brand" />
+        <item itemvalue="Python.practice0314_02" />
+        <item itemvalue="Python.practice0314" />
       </list>
     </recent_temporary>
   </component>
