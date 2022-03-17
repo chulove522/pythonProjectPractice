@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4cb3d68-2104-4631-80f9-7e45e803d8da" name="Default Changelist" comment="0303">
-      <change afterPath="$PROJECT_DIR$/0314_FaceDetect.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice0314.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice0314_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice0314_brand.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice0314_peopletag.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode09.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice0309.py" beforeDir="false" afterPath="$PROJECT_DIR$/beautifulsoup0317.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +22,6 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/practice0309.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/practice0308_02.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/practice_0303.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/0302.txt" root0="FORCE_HIGHLIGHTING" />
@@ -62,7 +58,7 @@
       <recent name="E:\pyPractice\pythonProject0302" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.0314_FaceDetect">
+  <component name="RunManager" selected="Python.beautifulsoup0317">
     <configuration name="0314_FaceDetect" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,7 +80,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="practice0314" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="beautifulsoup0317" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -96,7 +92,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice0314.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/beautifulsoup0317.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="practice0314_02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="leetcode09" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -117,7 +113,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice0314_02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode09.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.beautifulsoup0317" />
+        <item itemvalue="Python.leetcode09" />
         <item itemvalue="Python.0314_FaceDetect" />
         <item itemvalue="Python.practice0314_peopletag" />
         <item itemvalue="Python.practice0314_brand" />
-        <item itemvalue="Python.practice0314_02" />
-        <item itemvalue="Python.practice0314" />
       </list>
     </recent_temporary>
   </component>
