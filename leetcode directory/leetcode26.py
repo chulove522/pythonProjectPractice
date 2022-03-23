@@ -3,32 +3,40 @@ class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
         i = 0
         count = 0
-        length = len(nums)
-        if length == 1:
-            return 1
-        for i in range(length):
-            if i < length - 1:
-                if nums[i] == nums[i + 1]:
-                    print(nums[i],'the same')
-                    nums[i]= -200
-                i += 1
-            else:
-                print("the last one",(nums[i]))
-                if nums[i]==nums[i-1]:
-                    nums.remove(nums[i])
-
-        while count < len(nums):
-            if nums[count] == -200:
-                nums.remove(nums[count])
-                count -=1
-            count+=1
+        ss = 0
+        for i in range(len(nums)):
+            if nums[ss] != nums[i]:
+                print(nums[ss] ,' ,',nums[i])
+                ss += 1
+                nums[ss] = nums[i]
+        print(nums)
+        return ss+1
+        # length = len(nums)
+        # if length == 1:
+        #     return 1
+        # for i in range(length):
+        #     if i < length - 1:
+        #         if nums[i] == nums[i + 1]:
+        #             print(nums[i],'the same')
+        #             nums[i]= -200
+        #         i += 1
+        #     else:
+        #         print("the last one",(nums[i]))
+        #         if nums[i]==nums[i-1]:
+        #             nums.remove(nums[i])
+        #
+        # while count < len(nums):
+        #     if nums[count] == -200:
+        #         nums.remove(nums[count])
+        #         count -=1
+        #     count+=1
         #
         # while -200 in nums:
         #     nums.remove(-200)
-
-        print(nums)
-        print(len(nums))
-        return (len(nums))
+        #
+        # print(nums)
+        # print(len(nums))
+        # return (len(nums))
 
 
 s = Solution()
