@@ -60,5 +60,5 @@ class Solution02:
 
 s = Solution()
 s2 = Solution02()
-print(s.longestCommonPrefix(["flower", "flow", "flight" , "flo" , "flopopdw"]))
-print(s2.longestCommonPrefix(["flower", "flow", "flight" , "flo" , "flopopdw"]))
+print(s.longestCommonPrefix(["f1a", "f1b", "f3c" , "f3d" , "f4e" , "f4f" , "f2g" ,"f2h"]))
+#print(s2.longestCommonPrefix(["flower", "flow", "flight" , "flo" , "flopopdw"]))
