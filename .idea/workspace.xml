@@ -5,8 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4cb3d68-2104-4631-80f9-7e45e803d8da" name="Default Changelist" comment="0303">
-      <change afterPath="$PROJECT_DIR$/leetcode directory/leetcode21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode directory/leetcode20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode directory/leetcode28.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode directory/leetcode35.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode directory/leetcode53.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wherethesys.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pythonProject0302.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonProject0302.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0302.txt" beforeDir="false" afterPath="$PROJECT_DIR$/easy practice/leetcode69.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20220301.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20220302.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day004.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day02.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day03.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice0304.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice0308.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice0308_02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice0314.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice0314_02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice0314_brand.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice0314_peopletag.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_0302.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_0303.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,11 +52,6 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/practice0308_02.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/practice_0303.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/0302.txt" root0="FORCE_HIGHLIGHTING" />
-  </component>
   <component name="ProjectId" id="25oI4HvEmlelu2cz3QepaTF4Fij" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -52,12 +68,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
-      <console-settings is-module-sdk="true">
+      <console-settings module-name="pythonProject0302" is-module-sdk="true">
         <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="pythonProject0302" />
       </console-settings>
     </option>
   </component>
@@ -72,8 +89,29 @@
       <recent name="E:\pyPractice\pythonProject0302\leetcode directory" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.leetcode21">
-    <configuration name="leetcode21" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.leetcode53">
+    <configuration name="crawl" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject0302" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flask_20220325/實作/code/05_Templates" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flask_20220325/實作/code/05_Templates/crawl.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="leetcode20" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject0302" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -85,7 +123,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode directory/leetcode21.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode directory/leetcode20.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="leetcode26" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="leetcode28" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject0302" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -106,7 +144,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode directory/leetcode26.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode directory/leetcode28.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,7 +153,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="leetcode27" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="leetcode35" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject0302" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -127,7 +165,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode directory/leetcode27.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode directory/leetcode35.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,7 +174,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="leetcode575" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="leetcode53" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject0302" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -148,28 +186,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="E:\pyPractice\pythonProject0302\leetcode directory\leetcode575.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="practiceselenium (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\chulove\AppData\Local\Microsoft\WindowsApps\python3.9.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practiceselenium.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode directory/leetcode53.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,11 +197,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.leetcode21" />
-        <item itemvalue="Python.leetcode26" />
-        <item itemvalue="Python.leetcode27" />
-        <item itemvalue="Python.leetcode575" />
-        <item itemvalue="Python.practiceselenium (1)" />
+        <item itemvalue="Python.leetcode53" />
+        <item itemvalue="Python.leetcode35" />
+        <item itemvalue="Python.leetcode28" />
+        <item itemvalue="Python.leetcode20" />
+        <item itemvalue="Python.crawl" />
       </list>
     </recent_temporary>
   </component>
@@ -229,6 +246,7 @@
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$/../../GitClone/pythonPractice" />
+      <path value="$PROJECT_DIR$/modulefinder" />
     </ignored-roots>
     <MESSAGE value="0302" />
     <MESSAGE value="0303" />
